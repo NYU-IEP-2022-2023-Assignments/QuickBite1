@@ -1,5 +1,4 @@
-# Assignment4 - Pine Chapter 4 Questions
-
+# Quick Bite 1
 To accept this assignment: https://classroom.github.com/a/_B721LQ6
 
 This read me is adapted from [Jeremey Manning's Psych 32 Assignment Hello, World!](github.com/ContextLab/psyc32-hello-world/)
